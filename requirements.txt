@@ -1,0 +1,8 @@
+torch==1.8.2+cu111
+transformers==4.21.3
+python_box
+tqdm
+numpy
+pandas
+PyYAML
+scikit_learn
