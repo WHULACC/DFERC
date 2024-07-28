@@ -4,7 +4,7 @@ This repository contains the code for the ACM MM 2023 research paper "Revisiting
 
 ### Data Preparation 
 
-You can download the IEMOCAP dataset from the [official website](https://github.com/declare-lab/dialogue-understanding/blob/master/glove-end-to-end/datasets/_original/iemocap/IEMOCAP_features_raw.pkl).
+You can download the IEMOCAP dataset from this [website](https://github.com/hujingwen6666/MMGCN/tree/master/IEMOCAP_features).
 And then name the file `IEMOCAP_features_raw.pkl` and place it in the `data/preprocessed` folder.
 
 ### Running the Model
